@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 - Email-ID: atharvapawar3556@gmail.com
 - Phone number: 9930465922
-- Linkdin: linkedin.com/in/atharva-pawar-a06211224
+- Linkedin: linkedin.com/in/atharva-pawar-a06211224
 
 <!---
 atharv3556/atharv3556 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
